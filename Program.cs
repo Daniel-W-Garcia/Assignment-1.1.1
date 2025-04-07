@@ -43,6 +43,6 @@ int num3 = int.Parse(Console.ReadLine());
 Console.WriteLine("Enter your second number: ");
 int num4 = int.Parse(Console.ReadLine());
 
-int division = num3 / num4;
+int quotient = num3 / num4;
 int remainder = num3 % num4;
-Console.WriteLine($"The division of {num3} and {num4} is {division} and the remainder is {remainder}");
+Console.WriteLine($"The division of {num3} and {num4} is {quotient} and the remainder is {remainder}");
