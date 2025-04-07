@@ -19,7 +19,7 @@ address = Console.ReadLine();
 
 
 
-Console.WriteLine("""
+Console.WriteLine($"""
                   Hello, {name}
                   Your age is {age}
                   Your address is {address}
